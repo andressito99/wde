@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+auralist.glitch.me	TRUE	/	FALSE	1999999999	discord.oauth2	s%3AilWOtEMSSm3MJA3ZZKhDjYqQHhRRBour.ppTyFFoNwu3BfyDtuWomJM3Xrq1rPmYFjmyekKNVYO8
+.fontawesome.com	TRUE	/	FALSE	1999999999	__cfduid	d1d48e5012c75b40b5764d35d6205e8151607347595
+kit.fontawesome.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.discordapp.com	TRUE	/	FALSE	1999999999	__cfduid	d5572c748f0f8431ee57e45857e1a20ab1607347597
+cdn.discordapp.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
